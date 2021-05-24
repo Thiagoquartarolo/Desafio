@@ -1,0 +1,9 @@
+C:\Projetos\Desafio\Desafio\Teste 1\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Projetos\Desafio\Desafio\Teste 1\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Projetos\Desafio\Desafio\Teste 1\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Projetos\Desafio\Desafio\Teste 1\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Projetos\Desafio\Desafio\Teste 1\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Projetos\Desafio\Desafio\Teste 1\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Projetos\Desafio\Desafio\Teste 1\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio\Desafio\Teste 1\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Projetos\Desafio\Desafio\Teste 1\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
